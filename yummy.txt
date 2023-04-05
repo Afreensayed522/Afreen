@@ -1,0 +1,10 @@
+1 Ice cream
+2 Gulab Jamun
+3 Chiken Biryani
+4 Dairy mil cocolate
+5 Palakova
+6 Milk
+7 Roast Chiken
+8 Fried fish
+9 Dosa
+10 Sandwich
